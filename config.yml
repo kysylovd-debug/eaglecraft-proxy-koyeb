@@ -1,30 +1,20 @@
 network_compression_threshold: 256
 remote_ping_timeout: 5000
-online_mode: true
+online_mode: false  # Eaglecraft cracked
 remote_ping_cache: -1
 forge_support: false
 max_packets_per_second: 4096
-disabled_commands:
-- disabledcommandhere
+disabled_commands: []
 max_packets_data_per_second: 33554432
 reject_transfers: false
 prevent_proxy_connections: false
 player_limit: -1
-ip_forward: false
+ip_forward: true  # IMPORTANT pour Falix UUID
 connection_throttle_limit: 3
 connection_throttle: 4000
 log_commands: false
 log_pings: true
 groups:
-  md_5:
-  - admin
-stats: 766a57c0-b4f3-4e66-95c7-73268fc8948a
-servers:
-  lobby:
-    motd: '&1Mon Eaglecraft Proxy'
-    address: 127.0.0.1:25565
-    restricted: false
-permissions:
   default:
   - bungeecord.command.server
   - bungeecord.command.list
@@ -37,24 +27,26 @@ permissions:
   - bungeecord.command.kick
   - bungeecord.command.send
   - bungeecord.command.find
-  - bungeecord.command.perms
 listeners:
 - query_port: 25577
-  motd: '&1Proxy Koyeb Eaglecraft'
+  motd: '&1iSMT SMP Eaglecraft 1.12.2'
   priorities:
-  - lobby
+  - ismtsmp
   bind: 0.0.0.0:25565
-  host: 0.0.0.0:8081
+  host: 0.0.0.0:8081  # WSS Eaglecraft
   max_players: 100
   tab_size: 60
   force_default_server: true
-  forced_hosts:
-    pvp.md-5.net: pvp
   tab_list: GLOBAL_PING
   bind_local_address: true
   ping_passthrough: false
-  query_enabled: false
+  query_enabled: true
   proxy_protocol: false
+servers:
+  ismtsmp:  # Nom serveur
+    motd: '&1iSMT SMP Falix 1.12.2'
+    address: ismtsmp.falix.gg:25565  # VOTRE Falix IP:PORT
+    restricted: false
 enforce_secure_profile: false
 server_connect_timeout: 5000
 timeout: 30000
