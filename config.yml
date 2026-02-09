@@ -45,7 +45,7 @@ listeners:
 servers:
   ismtsmp:  # Nom serveur
     motd: '&1iSMT SMP Falix 1.12.2'
-    address: ismtsmp.falix.gg:25565  # VOTRE Falix IP:PORT
+    address: ismtsmp.falix.gg:25923  # VOTRE Falix IP:PORT
     restricted: false
 enforce_secure_profile: false
 server_connect_timeout: 5000
