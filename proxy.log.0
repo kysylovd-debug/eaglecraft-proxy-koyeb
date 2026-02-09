@@ -1,0 +1,68 @@
+19:39:02 [INFOS] Using standard Java JCE cipher.
+19:39:02 [INFOS] Using standard Java compressor.
+19:39:02 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.5-SNAPSHOT:53df998:2013
+19:39:02 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+19:39:02 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+19:39:02 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+19:39:02 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+19:39:02 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+19:39:02 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+19:39:02 [INFOS] Attempting to update plugin from null to ModuleVersion(build=2013, git=53df998)
+19:39:02 [INFOS] Attempting to Jenkins download module cmd_alert v2013
+19:39:03 [INFOS] Download complete
+19:39:03 [INFOS] Attempting to update plugin from null to ModuleVersion(build=2013, git=53df998)
+19:39:03 [INFOS] Attempting to Jenkins download module cmd_find v2013
+19:39:03 [INFOS] Download complete
+19:39:03 [INFOS] Attempting to update plugin from null to ModuleVersion(build=2013, git=53df998)
+19:39:03 [INFOS] Attempting to Jenkins download module cmd_list v2013
+19:39:04 [INFOS] Download complete
+19:39:04 [INFOS] Attempting to update plugin from null to ModuleVersion(build=2013, git=53df998)
+19:39:04 [INFOS] Attempting to Jenkins download module cmd_send v2013
+19:39:04 [INFOS] Download complete
+19:39:04 [INFOS] Attempting to update plugin from null to ModuleVersion(build=2013, git=53df998)
+19:39:04 [INFOS] Attempting to Jenkins download module cmd_server v2013
+19:39:04 [INFOS] Download complete
+19:39:04 [INFOS] Attempting to update plugin from null to ModuleVersion(build=2013, git=53df998)
+19:39:04 [INFOS] Attempting to Jenkins download module reconnect_yaml v2013
+19:39:04 [INFOS] Download complete
+19:39:04 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.5-SNAPSHOT:53df998:2013 by SpigotMC
+19:39:04 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.21-R0.5-SNAPSHOT:53df998:2013 by SpigotMC
+19:39:04 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.21-R0.5-SNAPSHOT:53df998:2013 by SpigotMC
+19:39:04 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.5-SNAPSHOT:53df998:2013 by SpigotMC
+19:39:04 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.21-R0.5-SNAPSHOT:53df998:2013 by SpigotMC
+19:39:04 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.21-R0.5-SNAPSHOT:53df998:2013 by SpigotMC
+19:39:05 [AVERTISSEMENT] Forced host server pvp is not defined
+19:39:05 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.5-SNAPSHOT:53df998:2013 by SpigotMC
+19:39:05 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.21-R0.5-SNAPSHOT:53df998:2013 by SpigotMC
+19:39:05 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.21-R0.5-SNAPSHOT:53df998:2013 by SpigotMC
+19:39:05 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.5-SNAPSHOT:53df998:2013 by SpigotMC
+19:39:05 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.21-R0.5-SNAPSHOT:53df998:2013 by SpigotMC
+19:39:05 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.21-R0.5-SNAPSHOT:53df998:2013 by SpigotMC
+19:39:05 [INFOS] Listening on /0.0.0.0:25577
+19:40:46 [INFOS] Using standard Java JCE cipher.
+19:40:46 [INFOS] Using standard Java compressor.
+19:40:46 [INFOS] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.5-SNAPSHOT:53df998:2013
+19:40:46 [INFOS] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+19:40:46 [INFOS] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+19:40:46 [INFOS] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+19:40:46 [INFOS] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+19:40:46 [INFOS] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+19:40:46 [INFOS] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+19:40:46 [INFOS] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.5-SNAPSHOT:53df998:2013 by SpigotMC
+19:40:46 [INFOS] Loaded plugin cmd_find version git:cmd_find:1.21-R0.5-SNAPSHOT:53df998:2013 by SpigotMC
+19:40:46 [INFOS] Loaded plugin cmd_server version git:cmd_server:1.21-R0.5-SNAPSHOT:53df998:2013 by SpigotMC
+19:40:46 [INFOS] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.5-SNAPSHOT:53df998:2013 by SpigotMC
+19:40:46 [INFOS] Loaded plugin cmd_send version git:cmd_send:1.21-R0.5-SNAPSHOT:53df998:2013 by SpigotMC
+19:40:46 [INFOS] Loaded plugin cmd_list version git:cmd_list:1.21-R0.5-SNAPSHOT:53df998:2013 by SpigotMC
+19:40:46 [AVERTISSEMENT] Forced host server pvp is not defined
+19:40:46 [INFOS] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.5-SNAPSHOT:53df998:2013 by SpigotMC
+19:40:46 [INFOS] Enabled plugin cmd_find version git:cmd_find:1.21-R0.5-SNAPSHOT:53df998:2013 by SpigotMC
+19:40:46 [INFOS] Enabled plugin cmd_server version git:cmd_server:1.21-R0.5-SNAPSHOT:53df998:2013 by SpigotMC
+19:40:46 [INFOS] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.5-SNAPSHOT:53df998:2013 by SpigotMC
+19:40:46 [INFOS] Enabled plugin cmd_send version git:cmd_send:1.21-R0.5-SNAPSHOT:53df998:2013 by SpigotMC
+19:40:46 [INFOS] Enabled plugin cmd_list version git:cmd_list:1.21-R0.5-SNAPSHOT:53df998:2013 by SpigotMC
+19:40:46 [INFOS] Listening on /0.0.0.0:8081
+19:41:06 [GRAVE] [/0:0:0:0:0:0:0:1:55885] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a48
+19:41:07 [GRAVE] [/0:0:0:0:0:0:0:1:49957] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a48
+19:41:07 [GRAVE] [/0:0:0:0:0:0:0:1:50228] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a48
+19:41:41 [GRAVE] [/0:0:0:0:0:0:0:1:61662] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a48
